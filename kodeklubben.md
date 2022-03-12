@@ -18,5 +18,7 @@ Mens vi jobber med de nye nettsidene våre så finner du den mest oppdaterte inf
 ## Kontakt oss
 
 Prosjektleder for Kodeklubben er Lars Åge Kamfjord
+
 Epost: lars.age (at) kamfjord (dot) org
+
 Mobil: 99 59 43 43
