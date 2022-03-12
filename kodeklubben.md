@@ -17,6 +17,8 @@ Mens vi jobber med de nye nettsidene våre så finner du den mest oppdaterte inf
 
 ## Kontakt oss
 
+Bli med på Kodeklubbens [Discord](https://discord.gg/5SBBtQF)
+
 Prosjektleder for Kodeklubben er Lars Åge Kamfjord
 
 Epost: lars.age (at) kamfjord (dot) org
