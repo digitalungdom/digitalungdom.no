@@ -15,7 +15,7 @@ Mens vi jobber med de nye nettsidene våre så finner du den mest oppdaterte inf
 [![Kodeklubben Tønsberg](assets/logos/kodeklubben_tønsberg.png){: .logo}](https://nb-no.facebook.com/KodeklubbenTonsberg/)
 [![Kodeklubben Horten](assets/logos/kodeklubben_horten.jpg){: .logo}](https://nb-no.facebook.com/KodeklubbenHorten/)
 
-== Kontakt oss ==
+## Kontakt oss
 
 Prosjektleder for Kodeklubben er Lars Åge Kamfjord
 Epost: lars.age (at) kamfjord (dot) org
